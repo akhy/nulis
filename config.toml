@@ -1,0 +1,26 @@
+base_url = "https://nulisajadulu.web.id"
+title = "Nulis Aja Dulu"
+description = "Kadang nulis yang penting, kadang yang penting nulis."
+author = "Pepe Ronny"
+theme = "tabi"
+generate_feeds = true
+compile_sass = true
+minify_html = true
+build_search_index = false
+taxonomies = [{name = "tags", feed = true}]
+
+[markdown]
+highlight_code = true
+highlight_theme = "css"
+
+[extra]
+skin = "lavender"
+stylesheets = [ "override.css" ]
+menu = [
+  { name = "blog", url = "posts", trailing_slash = true },
+  { name = "tentang", url = "about", trailing_slash = true },
+]
+
+[extra.hcard]
+enable = true
+avatar = "img/peperonny.png"
