@@ -3,7 +3,7 @@ title = "Tentang Alice in Borderland Season 3"
 description = "Nulis dikit tentang series Jepang yang sering dibanding-bandingin sama game cumi ini"
 date = 2025-09-26
 [taxonomies]
-tags = ["anime", "manga", "netflix", "review", "alice-in-borderland"]
+tags = ["manga", "netflix", "review", "alice-in-borderland"]
 [extra]
 local_image = "/img/alice-in-borderland-s03.webp"
 +++
