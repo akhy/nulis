@@ -24,3 +24,7 @@ menu = [
 [extra.hcard]
 enable = true
 avatar = "img/peperonny.png"
+
+[extra.isso]
+enabled_for_all_posts = true
+endpoint_url = "https://comentario.mdgrd.net"
