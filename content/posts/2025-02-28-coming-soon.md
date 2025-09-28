@@ -2,6 +2,8 @@
 title: Coming soon, segera datang
 date: 2025-02-28T09:00:00
 description: Konten rintisan.
+extra:
+  local_image: /img/uploads/YNTKTS.png
 taxonomies:
   tags:
     - meta
