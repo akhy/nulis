@@ -5,12 +5,12 @@ date = 2025-09-26
 [taxonomies]
 tags = ["manga", "netflix", "review", "alice-in-borderland"]
 [extra]
-local_image = "/img/uploads/alice-in-borderland-s03.webp"
+local_image = "/media/alice-in-borderland-s03.webp"
 +++
 
 Jadi kemarin Netflix akhirnya ngeluarin Alice in Borderland Season 3, dan udah nonton 3 episode pertama. Mixed feelings banget sih sama season yang satu ini.
 
-![Alice in Borderland Season 3](/img/alice-in-borderland-s03.webp)
+![Alice in Borderland Season 3](/media/alice-in-borderland-s03.webp)
 
 ## Alice in Borderland
 
