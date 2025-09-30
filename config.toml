@@ -39,3 +39,8 @@ avatar = "img/peperonny.png"
 [extra.isso]
 enabled_for_all_posts = true
 endpoint_url = "https://comentario.mdgrd.net"
+
+[extra.analytics]
+service = "umami"
+id = "c3493979-8ec7-420e-a2a8-6d270fc6c2d1"
+
