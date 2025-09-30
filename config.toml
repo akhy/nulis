@@ -17,6 +17,7 @@ highlight_theme = "css"
 theme_switcher = false
 default_theme = "dark"
 skin = "lavender"
+favicon = "favicon.ico"
 stylesheets = [ "override.css" ]
 menu = [
   { name = "blog", url = "posts", trailing_slash = true },
