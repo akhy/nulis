@@ -2,9 +2,9 @@
 title = "Tentang Blog Ini"
 +++
 
-## Siapa Pepe Ronny?
+## Siapa akhy?
 
-Saya. Memangnya siapa lagi?
+Saya, yang nulis blog ini. Memangnya siapa lagi?
 
 ## Untuk apa blog ini dibuat?
 

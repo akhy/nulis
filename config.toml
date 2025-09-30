@@ -1,7 +1,7 @@
 base_url = "https://nulisajadulu.web.id"
 title = "Nulis Aja Dulu"
 description = "Kadang nulis yang penting, kadang yang penting nulis."
-author = "Pepe Ronny"
+author = "akhy"
 theme = "tabi"
 generate_feeds = true
 compile_sass = true
