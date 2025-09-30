@@ -31,6 +31,11 @@ allowed_domains = [
   { directive = "style-src", domains = ["'self'", "https://*.mdgrd.net"] },
   { directive = "frame-src", domains = ["player.vimeo.com", "https://www.youtube-nocookie.com"] },
 ]
+socials = [
+  { name = "twitter/x", url = "https://x.com/akhy", icon = "x" },
+  { name = "mastodon", url = "https://mstdn.io/@akhy", icon = "mastodon" },
+  { name = "pixelfed", url = "https://pixelfed.social/akhy", icon = "pixelfed" },
+]
 
 [extra.hcard]
 enable = true
@@ -43,4 +48,8 @@ endpoint_url = "https://comentario.mdgrd.net"
 [extra.analytics]
 service = "umami"
 id = "c3493979-8ec7-420e-a2a8-6d270fc6c2d1"
+
+[extra.webmentions]
+enable = true
+domain = "nulisajadulu.web.id"
 
