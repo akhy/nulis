@@ -35,7 +35,7 @@ socials = [
   { name = "twitter/x", url = "https://x.com/akhy", icon = "x" },
   { name = "mastodon", url = "https://mstdn.io/@akhy", icon = "mastodon" },
   { name = "pixelfed", url = "https://pixelfed.social/akhy", icon = "pixelfed" },
-  { name = "github", url = "https://github.com/akhy" = "github" },
+  { name = "github", url = "https://github.com/akhy", icon = "github" },
 ]
 
 [extra.hcard]
