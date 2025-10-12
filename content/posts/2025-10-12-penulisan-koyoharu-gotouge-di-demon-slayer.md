@@ -1,20 +1,23 @@
-+++
-title = "Penulisan Koyoharu Gotouge di Demon Slayer"
-description = "Beberapa hal yang gw sadari selama marathon nonton Demon Slayer"
-date = 2025-10-12
-[taxonomies]
-tags = ["refleksi", "anime", "demon-slayer", "feminisme"]
-[extra]
-local_image = "/media/gotouge.webp"
-+++
-
+---
+title: Penulisan Koyoharu Gotouge di Demon Slayer
+date: 2025-10-12
+description: Beberapa hal yang gw sadari selama marathon nonton Demon Slayer
+taxonomies:
+  tags:
+    - refleksi
+    - anime
+    - demon-slayer
+    - feminisme
+extra:
+  local_image: /media/gotouge.webp
+---
 Gw jarang suka atau simpati sama main character cowok di anime shonen. Naruto? Luffy? Nope.
 
 Anyway, baru-baru ini gw mulai nonton Demon Slayer (Kimetsu no Yaiba) demi bisa ngejar nonton movie terbarunya di bioskop. Sungguh pengalaman menonton yang dragging di beberapa episode awal, apalagi trope yang nampak sekilas terasa terlalu klise macam "aku ingin menjadi lebih kuat agar bisa melindungimu".
 
 ![Tanjiro and Nezuko](/media/tanjiro-nezuko.avif)
 
-Setelah lewat beberapa episode, gw mulai menyadari bahwa Tanjiro beda dari kebanyakan tokoh utama shonen. Dia itu yang orang sekarang bilang "green flag" (atau malah *green forest*). Dia berempati tinggi, gak suka konfrontasi kecuali perlu, dan cerdas secara emosional. IMO, Tanjiro adalah perwujudan sosok cowok ideal di mata cewek. Dan belakangan gw sadar kenapa: **Demon Slayer ditulis sama [Koyoharu Gotouge](https://kimetsu-no-yaiba.fandom.com/wiki/Koyoharu_Gotoge)**, seorang perempuan. Dan itu menurut gw kelihatan banget di pendalaman karakter-karakternya. (I'm a male btw)
+Setelah lewat beberapa episode, gw mulai menyadari bahwa Tanjiro beda dari kebanyakan tokoh utama shonen. Dia itu bisa dibilang "green flag" (atau malah _green forest_). Dia berempati tinggi, gak suka konfrontasi kecuali perlu, dan cerdas secara emosional. IMO, Tanjiro adalah perwujudan sosok cowok ideal di mata cewek. Dan belakangan gw sadar kenapa: **Demon Slayer ditulis sama&#32;[Koyoharu Gotouge](https://kimetsu-no-yaiba.fandom.com/wiki/Koyoharu_Gotoge)**, seorang perempuan. Dan itu menurut gw kelihatan banget di pendalaman karakter-karakternya. (I'm a male btw)
 
 ![Koyoharu Gotouge and characters she made](/media/gotouge-and-demon-slayers.avif)
 
@@ -28,13 +31,13 @@ Tapi Gotouge nggak. Tengen ditulis sebagai lelaki yang sangat respectful dan pro
 
 Entertainment District arc ini surprisingly mature. Bayangin: arc berlatar di red-light district (area lokalisasi/prostitusi)... di anime shonen, yang jelas target pasarnya adalah cowok-cowok. Kalau Naruto dan Jiraiya di posisi itu, udah kebayang lah bakal gimana kelakuannya 🙄
 
-Tapi di Demon Slayer? Arc ini ditulis dengan respect terhadap para pekerja seks di sana sebagai manusia, bukan objek. Bahkan fakta Yoshiwara sebagai daerah prostitusi imo tidak terlalu gamblang dijadikan fokus cerita, which is good. Paling parah "fan service" di arc ini cuma oppai istri-istrinya Tengen sih.
+Tapi, di Demon Slayer? Arc ini ditulis dengan respect terhadap para pekerja seks di sana sebagai manusia, bukan objek. Bahkan fakta Yoshiwara sebagai daerah prostitusi imo tidak terlalu gamblang dijadikan fokus cerita, which is good. Paling parah "fan service" di arc ini cuma \*oppai\* istri-istrinya Tengen sih.
 
 Bukan berarti Gotouge anti-sensualitas atau sok suci. Menurut gw dia cuma tahu kapan dan gimana melakukannya dengan konteks yang tepat. Bukan cuma buat lelucon murahan dan seksis doang.
 
 ## Kanroji Mitsuri
 
-First impression gw tentang Mitsuri: annoying banget. Berisik, menyebalkan, dan seriusan dia masuk Demon Slayer Corps dan jadi Hashira biar bisa nikah?
+First impression gw tentang Mitsuri: annoying banget. Berisik, menyebalkan, dan seriusan nih, dia masuk Demon Slayer Corps dan jadi Hashira demi bisa nikah?
 
 ![Kanroji Mitsuri eats](/media/mitsuri-eats.jpg)
 
