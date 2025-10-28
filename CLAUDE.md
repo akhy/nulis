@@ -49,6 +49,7 @@ The site auto-deploys to Netlify when pushed to main branch. Build configuration
 - Use front matter with tags taxonomy
 - Markdown with code highlighting enabled (CSS theme)
 - All content should be in Indonesian as per existing content
+- Post markdown files should use TOML front-matter by default (triple plus sign - `+++`)
 
 ## Writing Style Guide
 
