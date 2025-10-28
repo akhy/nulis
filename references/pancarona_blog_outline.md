@@ -1,16 +1,17 @@
 # Blog Post Outline: "Pancarona" - The Many Colors of Grief Across Time
 
-**Working Title:** "Pancarona: How Barasuara Accidentally Wrote the Perfect Soundtrack for Time-Displaced Grief"
+**Working Title:** "Pancarona dan Panca Duka"
 
 **Alternative Titles:**
 - "The Many Colors of Grief: Analyzing Pancarona and Sore's Journey"
 - "When a 2019 Song Becomes a 2025 Film's Soul: Pancarona and the Five Stages of Grief"
 - "Pancarona: Loving Someone Who Doesn't Know You Yet"
 
-**Target Length:** 2500-3500 words  
+**Target Length:** Less than 2500 words  
 **Target Blog:** nulisajadulu.web.id (Commentary)  
 **Language:** Bahasa Indonesia with occasional English when makes sense  
 **Spoiler Level:** Full with warning
+**Tone**: Personal, cathartic, reflective
 
 ---
 
@@ -522,9 +523,9 @@ Visual box with stage names, descriptions, and corresponding lyrics
 ## PRE-WRITING CHECKLIST
 
 Before beginning full draft:
-- [ ] Decide primary language
-- [ ] Confirm spoiler policy
-- [ ] Choose personal vs. analytical tone
+- [x] Decide primary language
+- [x] Confirm spoiler policy
+- [x] Choose personal vs. analytical tone
 - [ ] Select target word count per section
 - [ ] Gather all lyric translations
 - [ ] Confirm all film plot details
@@ -533,29 +534,6 @@ Before beginning full draft:
 - [ ] Prepare citation format
 - [ ] Set up document structure
 - [ ] Plan for images/visual elements (if any)
-
----
-
-## POST-WRITING CHECKLIST
-
-After first draft:
-- [ ] Read aloud for flow
-- [ ] Check all Indonesian-English consistency
-- [ ] Verify grief model accuracy
-- [ ] Ensure no plot errors about film
-- [ ] Confirm lyric translations
-- [ ] Review for cultural sensitivity
-- [ ] Check tone consistency
-- [ ] Trim redundancies
-- [ ] Strengthen transitions
-- [ ] Polish opening hook
-- [ ] Perfect closing lines
-- [ ] Add citations/sources
-- [ ] Proofread for grammar/spelling
-- [ ] Format for blog platform
-- [ ] Add meta descriptions/tags
-- [ ] Preview on mobile/desktop
-- [ ] Get feedback from test reader
 
 ---
 
